@@ -1,0 +1,5 @@
+generative-ai-hub-sdk
+pandas
+hana-ml
+openpyxl
+python-dotenv

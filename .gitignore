@@ -1,0 +1,9 @@
+# Ignore the env folder
+env/
+
+# Ignore the .env file containing sensitive information
+.env
+
+# Other typical files to ignore
+*.log
+__pycache__/
